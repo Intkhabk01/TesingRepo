@@ -3,6 +3,7 @@ class Hello{
 		
 		
 		System.out.println("Hello IK");
+		System.out.println("Hi Intkhab);
 
 	}
 }
